@@ -1,0 +1,41 @@
+.modal-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+}
+.dummy-content-paragraph {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.Date-Selection {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #000000;
+}
+.date-input {
+    box-sizing: border-box;
+    width: 300px;
+    height: 36px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+.Extend-btn {
+    width: 94px;
+    height: 35px;
+    background: #000000;
+    border-radius: 4px;
+    color: #FFFFFF;
+}
+.btn-extend {
+    margin-top: 36px;
+}
